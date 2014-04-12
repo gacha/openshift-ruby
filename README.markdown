@@ -1,6 +1,6 @@
 # Openshift Ruby
 
-Installer and action hooks for Openshift Do-it-Yourself (DIY) for installing Ruby 2.0.0-p353 via Rbenv and running simple Sinatra application through Thin.
+Installer and action hooks for Openshift Do-it-Yourself (DIY) for installing Ruby 2.1.1 via Rbenv and running simple Sinatra application through Thin.
 
 ## URL
 
@@ -17,7 +17,7 @@ http://ruby-codecase.rhcloud.com/
 
 ## Step by Step
 
-In order to make Openshift support Ruby 2.0, we need to set the working environment, here's how:
+In order to make Openshift support Ruby 2.1.1, we need to set the working environment, here's how:
 
 ### 01. Installing Openshift client
 
